@@ -1,4 +1,4 @@
-package forloop;
+package loops;
 
 public class New {
     
