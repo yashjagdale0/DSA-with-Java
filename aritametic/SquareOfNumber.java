@@ -1,0 +1,7 @@
+package aritametic;
+class SquareOfNumber {
+    public static void main(String[] args) {
+        int n = 5;
+        System.out.println("Square = " + (n * n));
+    }
+}
